@@ -1,58 +1,87 @@
-# Hello 👋, I'm Manmith Gopari
-### Frontend Developer
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-Passionate Frontend Developer building awesome web applications and learning AI integrations!
-
-## Contact Me
-<p><a href="https://www.linkedin.com/in/manmithgopari7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://portfolio-gilt-three-77qiroyma5.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>&nbsp;
+<p>
+Welcome to my profile! <br/>
+I'm <b>Manmith Gopari</b>, a Full Stack Developer from 🇮🇳 <b>India</b>.
+Currently pursuing B.Tech in Computer Science & Engineering at Lovely Professional University.
 </p>
 
-## Projects
+<h3>Things I code with</h3>
 
-### 🛒 E-Commerce Website
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-Built a full-stack e-commerce platform with:
+<h3>Featured Projects</h3>
 
-Role-based authentication (users & admins)
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🚀 Project</b></td>
+      <td><b>🛠 Tech Stack</b></td>
+    </tr>
+  </thead>
 
-Real-time shopping cart and order management
+  <tbody>
+    <tr>
+      <td><b>Vendor Marketplace Platform</b></td>
+      <td>React, Node.js, MongoDB, AWS</td>
+    </tr>
 
-Optimized UI/UX for fast navigation
+    <tr>
+      <td><b>AI Social Media Automation Platform</b></td>
+      <td>Next.js, OpenAI, PostgreSQL</td>
+    </tr>
 
-Performance enhancements for smooth checkout
+    <tr>
+      <td><b>Smart Recipe Platform</b></td>
+      <td>MERN Stack</td>
+    </tr>
 
-[View Project](https://ecommerce-ani6.vercel.app/)
+    <tr>
+      <td><b>Food Ordering Platform</b></td>
+      <td>React, Express, MongoDB</td>
+    </tr>
+  </tbody>
+</table>
 
----
+<h3>GitHub Stats</h3>
 
-## GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Manmith7&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmith7&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmith7&layout=compact&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manmith7&theme=default" alt="GitHub Streak" />
+<h3>Where to find me</h3>
 
-## GitHub Trophies
+<p>
+<a href="https://github.com/Manmith7" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manmith7" alt="trophy" />
+<a href="https://www.linkedin.com/in/manmithgopari7" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="mailto:manmithgopari7@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
